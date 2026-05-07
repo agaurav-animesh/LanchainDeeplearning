@@ -1,0 +1,4 @@
+ipykeral
+numpy
+pyodbc
+streamlit
