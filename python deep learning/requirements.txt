@@ -4,3 +4,7 @@ numpy
 altair
 pyarrow
 requests
+scikit-learn
+matplotlib
+memory_profiler
+seaborn
